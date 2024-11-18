@@ -3,7 +3,6 @@ title: "Dynamic Routing Overview"
 description: "Discussing IGP and EGP"
 pubDate: "Sep 12 2022"
 heroImage: "/dr2.webp"
-badge: "Demo badge"
 tags: ["Routing Protocols","Networking"]
 ---
 

@@ -3,7 +3,7 @@ title: "DHCP Overview"
 description: "Introduction to DHCP"
 pubDate: "Sep 12 2022"
 heroImage: "/dhcp.webp"
-badge: "Demo badge"
+badge: "NEW"
 tags: ["DHCP","Networking"]
 ---
 
